@@ -1,0 +1,28 @@
+{
+  "name": "agraciakuvut/kuvutplaces",
+  "type": "library",
+  "description": "PHP Wrapper for the KuvutPlaces API",
+  "homepage": "https://github.com/agraciakuvut/KuvutPlaces",
+  "keywords": [
+    "kuvut places",
+    "places"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrés Gracia",
+      "email": "agracia@kuvut.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "agraciakuvut\\": "src/KuvutPlaces"
+    }
+  },
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
