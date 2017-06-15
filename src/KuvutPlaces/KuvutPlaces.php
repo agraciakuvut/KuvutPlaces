@@ -6,6 +6,14 @@ namespace agraciakuvut;
  */
 class KuvutPlaces
 {
+
+    const ADDRESS_VALID = 0;
+    const APY_KEY_NOT_VALID = 1;
+    const PLATFORM_NOT_VALID = 2;
+    const ADDRESS_NOT_EXIST = 3;
+    const COUNTRY_NOT_VALID = 4;
+    const POSTAL_CODE_NOT_VALID = 5;
+
     /**
      *
      * @var string
