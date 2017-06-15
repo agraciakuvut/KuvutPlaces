@@ -1,7 +1,7 @@
 PHP Wrapper for the KuvutPlaces API
 =======================================
 
-[![Packagist](https://img.shields.io/packagist/v/buuum/googleplaces.svg)](https://packagist.org/packages/buuum/googleplaces)
+[![Packagist](https://img.shields.io/packagist/v/agraciakuvut/kuvutplaces.svg)](https://packagist.org/packages/agraciakuvut/kuvutplaces)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](#license)
 
 ## Install
