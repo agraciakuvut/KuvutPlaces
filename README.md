@@ -15,7 +15,7 @@ You need PHP >= 7.0.0 to use agraciakuvut\KuvutPlaces but the latest stable vers
 agraciakuvut\KuvutPlaces is available on Packagist and can be installed using Composer:
 
 ```
-composer requirea agraciakuvut/kuvutplaces
+composer require agraciakuvut/kuvutplaces
 ```
 
 ### Manually
