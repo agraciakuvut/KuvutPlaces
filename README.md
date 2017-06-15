@@ -1,4 +1,4 @@
-Simple php api class with google places
+Simple php api class with kuvut places
 =======================================
 
 [![Packagist](https://img.shields.io/packagist/v/buuum/googleplaces.svg)](https://packagist.org/packages/buuum/googleplaces)
